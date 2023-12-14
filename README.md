@@ -4,7 +4,7 @@
 A project management system to help project manages easily assign, track and monitor the progress of their employees.
 
 Stacks: ```php, html, css, REST api server```
-![image](https://hackmd.io/_uploads/r1RqDC_Up.png)
+![image](https://imgur.com/a/tnlzied)
 
 
 ### Installation:
